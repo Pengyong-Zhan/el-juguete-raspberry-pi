@@ -1,6 +1,6 @@
 # How to Install Raspberry Pi OS on SD Card
 
-#### Step 1. format your SD card
+#### Step 1. Format your SD card
 
 1. Download the software "SD Card Formatter" from https://www.sdcardformatter.com/
 
@@ -14,8 +14,10 @@
 
    ![image-20230624185113316](assets/image-20230624185113316.png)
 
-   Final Prompt:
+   
 
+   Final prompt:
+   
    <img src="assets/image-20230624184819709.png" alt="image-20230624184819709" style="zoom:33%;" />
 
 
@@ -40,6 +42,8 @@
 
    <img src="assets/image-20230624190739183.png" alt="image-20230624190739183" style="zoom:33%;" />
 
+   
+
 3. Click the gear-like Setting button on the bottom right, set according to your preferences and needs, then click Save button
 
    <img src="assets/image-20230624191238431.png" alt="image-20230624191238431" style="zoom:33%;" />
@@ -52,6 +56,8 @@
 
    <img src="assets/image-20230624192237138.png" alt="image-20230624192237138" style="zoom:33%;" />
 
+   
+
 4. Now, click "Burn", then click "Yes" in new prompt message box
 
    <img src="assets/image-20230624192342591.png" alt="image-20230624192342591" style="zoom:33%;" />
@@ -60,22 +66,30 @@
 
    <img src="assets/image-20230624192543324.png" alt="image-20230624192543324" style="zoom:33%;" />
 
+   
+
 5. Next, we need to be patient, have a cup of coffee or listen to Maluma, and wait for the OS to be written in SD card.
 
    About 10 minutes later, when the process is completed, click Continue button to finish this process.
 
    <img src="assets/image-20230624192728489.png" alt="image-20230624192728489" style="zoom:33%;" />
 
+   
+
    no hurry, wait
 
    <img src="assets/image-20230624193054685.png" alt="image-20230624193054685" style="zoom:33%;" />
 
+   
+
    no hurry, drink coffee and listen to music
 
    <img src="assets/image-20230624193451288.png" alt="image-20230624193451288" style="zoom:33%;" />
-
+   
+   
+   
    finally!
-
+   
    <img src="assets/image-20230624193609135.png" alt="image-20230624193609135" style="zoom:33%;" />
 
 #### Step 4. Before Raspberry Pi setting - Connect to a Raspberry Pi Remotely via SSH in terminal
@@ -209,13 +223,19 @@ Except login Raspberry Pi via SSH in terminal, we can also login via VNC.
 
    <img src="assets/image-20230624224752100.png" alt="image-20230624224752100" style="zoom:33%;" />
 
+   
+
 2. Click Continue in the prompt below
 
    <img src="assets/image-20230624224904059.png" alt="image-20230624224904059" style="zoom:33%;" />
 
+   
+
 3. Enter user name and password, then click OK
 
    <img src="assets/image-20230624225048785.png" alt="image-20230624225048785" style="zoom:33%;" />
+
+   
 
 4. Voila, now we see Raspberry Pi's desktop! 
 
@@ -228,6 +248,8 @@ Except login Raspberry Pi via SSH in terminal, we can also login via VNC.
 1. Click the raspberry logo on the top left, then click "Preferences", then click "Raspberry Pi Configuration"
 
    ![image-20230624231342610](assets/image-20230624231342610.png)
+
+   
 
 2. Let's set resolution again.
 
@@ -243,11 +265,15 @@ Except login Raspberry Pi via SSH in terminal, we can also login via VNC.
 
    ![image-20230624231542156](assets/image-20230624231542156.png)
 
+   
+
 3. Let's set time zone 
 
    Click Localisation - Set Timezone - select your Area and Location - click OK button
 
    ![image-20230625082156872](assets/image-20230625082156872.png)
+
+   
 
 4. Once finish all settings, click the OK button in Configuration interface on bottom right.
 
